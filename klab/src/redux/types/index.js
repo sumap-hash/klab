@@ -1,0 +1,1 @@
+export const ADD_PROJECT_TO_STORE = "ADD_PROJECT_TO_STORE";
